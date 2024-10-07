@@ -19,7 +19,7 @@ The location of the restaurant is embedded using an <iframe> tag that integrates
 
 7. About Us Section:
 Provides a detailed description of the restaurant’s history and atmosphere using h1, h4, and p tags for headings and paragraphs.
-Images of the restaurant are included using the img tag.
+Images of the restaurant are included using the (img) tag.
 
 9. Menu Section:
 The menu is displayed using an HTML table tag that lists the dishes offered by the restaurant, their descriptions, and prices.
